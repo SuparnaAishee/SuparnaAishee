@@ -1,20 +1,32 @@
-# Hi there, I'm <span style="color:blue">Suparna Dhar</span>! 👋
+# Hi there, I'm $\color{skyblue} Suparna Dhar$ 👋
 
-Welcome to my GitHub! I'm a dedicated Computer Science & Engineering student, exploring the vast world of **web development** and enjoying the journey of learning new technologies by working on projects.
+<p>Welcome to my GitHub! I'm a dedicated Computer Science & Engineering student, exploring the vast world of $\color{skyblue}**WEB DEVELOPMENT**$ 🌐 and enjoying the journey of learning new technologies through hands-on projects.</p>
 
----
+
+<br>
+
+<br>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile Views" style= " margin: 15px 0;"/>
+</p>
+
+<br>
+
 
 ## 🛠 Technologies & Tools I'm Learning and Using
 
 ### Frontend:
 <p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
 </p>
+
 
 ### Backend:
 <p align="center">
@@ -22,52 +34,49 @@ Welcome to my GitHub! I'm a dedicated Computer Science & Engineering student, ex
   <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 </p>
 
+
+
+
 ### Database:
 <p align="center">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style= height: 80px; margin: 5px; padding:10px" />
+  <img src="https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" style= height: 80px; margin: 5px;"/>
 </p>
 
 ### Programming Languages:
 <p align="center">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" style="width: 50px; height: 50px; margin: 5px;" />
+
 </p>
 
----
+
+<br>
 
 ## 🔧 Tools & Utilities:
 <p align="center">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <br>
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="width: 50px; height: 50px; margin: 5px;" />
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" style="width: 50px; height: 50px; margin: 5px;" />
+<img src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" alt="Postman" style="width: 50px; height: 50px; margin: 5px;" />
+<img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM" style="width: 50px; height: 50px; margin: 5px;" />
+<img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" alt="Jupyter" style="width: 50px; height: 50px; margin: 5px;" />
 </p>
-
----
+<br>
+<br>
+</p>
 
 ## 🔭 What I'm Currently Working On:
-- Building full-stack web applications with **React**, **ReduxToolkit**, **Node.js**, and **Express.js**
+- Building full-stack web applications with **React**, **Redux Toolkit**, **Node.js**, and **Express.js**
 - Expanding my knowledge of **TypeScript** and **Next.js**
 
----
-
-## 📈 Profile Views:
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile Views" />
-</p>
-
----
+<br>
 
 ## 📫 How to Reach Me:
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <br>
+  <a href="mailto:youremail@example.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="LinkedIn" /></a>
 </p>
 
----
 
 ### ✨ Happy Coding! 🚀
