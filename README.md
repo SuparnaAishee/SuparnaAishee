@@ -5,14 +5,7 @@
 
 <br>
 
-<br>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile Views" style= " margin: 15px 0;"/>
-</p>
-
-<br>
 
 
 ## 🛠 Technologies & Tools I'm Learning and Using
@@ -81,7 +74,14 @@
 - Expanding my knowledge of **TypeScript** and **Next.js**
 
 <br>
+<br>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SuparnaAishee&style=flat-square&color=blue" alt="Profile Views" style= " margin: 15px 0;"/>
+</p>
+
+<br>
 ## 📫 How to Reach Me:
 <p align="center">
   <br>
