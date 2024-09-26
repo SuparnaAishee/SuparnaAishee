@@ -52,6 +52,17 @@
 
 <br>
 
+## 📚 Frameworks I'm Working With:
+<p align="center">
+  <br>
+  <img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="Tailwind CSS" style="width: 50px; height: 50px; margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" style="width: 50px; height: 50px; margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/saadeghi/daisyui-images/master/images/daisyui-logo/favicon-192.png" alt="DaisyUI" style="width: 50px; height: 50px; margin: 10px;" />
+  <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-2048x2046-dl3neb73.png" alt="Ant Design" style="width: 50px; height: 50px; margin: 10px;" />
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" alt="ShadCN" style="width: 50px; height: 50px; margin: 10px;" />
+</p>
+
+
 ## 🔧 Tools & Utilities:
 <p align="center">
   <br>
