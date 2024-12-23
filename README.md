@@ -24,7 +24,8 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuparnaAishee&theme=radical" alt="GitHub Streak Stats" width="400" />
     </td>
   </tr>
-</table>]
+</table>
+
 ## 📫 How to Reach Me:
 
 <p align="center">
@@ -49,6 +50,7 @@
 </p>
 
 <br>
+
 ## 🛠 Technologies & Tools I'm Learning and Using
 
 ### Frontend:
