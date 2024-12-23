@@ -11,7 +11,7 @@
 
 <br>
 
-[## 📊 GitHubStats & Lifetime Contributions
+## 📊 GitHubStats & Lifetime Contributions
 
 <table align="center">
   <tr>
