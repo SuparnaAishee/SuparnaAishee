@@ -3,7 +3,7 @@
 <!---<p>Welcome to my GitHub! I'm a dedicated Computer Science & Engineering student, exploring the vast world of $\color{skyblue}**WEB DEVELOPMENT**$ 🌐 and enjoying the journey of learning new technologies through hands-on projects.</p>
 <div align="center">-->
   <!-- Banner -->
-  <img src="https://res.cloudinary.com/dwelabpll/image/upload/v1734963868/Black_Minimalist_UIUX_Designer_LinkedIn_Banner_svkrfo.jpg" alt="Suparna Dhar Banner" style="border-radius: 15px;">
+  <img src="https://res.cloudinary.com/dwelabpll/image/upload/v1735240408/Black_Minimalist_UIUX_Designer_LinkedIn_Banner_1_knckvc.png" alt="Suparna Dhar Banner" style="border-radius: 15px;">
 
  
 </div>
