@@ -14,18 +14,18 @@
 </p>
 <br>
 
-## 📊 GitHubStats & Lifetime Contributions
+## 📊 GitHubStats 
 
 <table align="center">
   <tr>
-    <!-- GitHub Stats -->
+    <!-- GitHub Stats 
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=SuparnaAishee&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-    </td>
+    </td>-->
     <!-- Lifetime Contributions -->
-    <td align="center">
+    <div align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuparnaAishee&theme=radical" alt="GitHub Streak Stats" width="400" />
-    </td>
+    </div>
   </tr>
 </table>
 
