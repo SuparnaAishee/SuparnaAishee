@@ -9,6 +9,9 @@
 </div>
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SuparnaAishee&style=flat-square&color=blue" alt="Profile Views" style= " margin: 15px 0;"/>
+</p>
 <br>
 
 ## 📊 GitHubStats & Lifetime Contributions
@@ -125,10 +128,6 @@
 <br>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SuparnaAishee&style=flat-square&color=blue" alt="Profile Views" style= " margin: 15px 0;"/>
-</p>
 
-<br>
 
 ### ✨ Happy Coding! 🚀
